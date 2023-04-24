@@ -188,7 +188,7 @@ Check our latest news and project updates via [RADar Learning & innovation Centr
 
 ## RADar call for action  
 
-We would love to hear your feedback on our RADar-AZDelta (github.com) code and welcome any suggestions for improvements.  
+We would love to hear your feedback on our RADar-AZDelta [github.com](https://github.com/RADar-AZDelta) code and welcome any suggestions for improvements.  
 
  
 
