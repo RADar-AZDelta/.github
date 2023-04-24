@@ -48,7 +48,7 @@ Advanced Data-Aided Medicine Part Lung Cancer
 
 - Ethics [NCT05783024 Advanced Data-Aided Medicine Part Lung Cancer- ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT05783024)
 
-- Published [abstract Journal of Thoracic Oncology](https://www.jto.org/article/S1556-0864(23)00466-5/fulltext)
+- Published [abstract in Journal of Thoracic Oncology](https://www.jto.org/article/S1556-0864(23)00466-5/fulltext)
 
 - Status: looking for validation cohorts in hospitals 
 
