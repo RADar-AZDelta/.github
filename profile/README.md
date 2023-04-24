@@ -180,7 +180,7 @@ RADar wants to share its expertise and knowledge to other hospital and healthcar
 
  
 
-Check our latest news and project updates via RADar Learning & innovation Centre AZ Delta: Overview | LinkedIn 
+Check our latest news and project updates via [RADar Learning & innovation Centre AZ Delta: Overview | LinkedIn](https://www.linkedin.com/company/radar-learning-innovation-centre-az-delta/)
 
  
 
