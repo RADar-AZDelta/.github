@@ -164,19 +164,19 @@ RADar wants to share its expertise and knowledge to other hospital and healthcar
 
  
 
-Lib_airflow Custom Airflow operators and hooks, that help to upload raw hospital data to Google Cloud environment. The source code supports developers to automate workflows or data pipelines via the creation of advanced task scheduling.  
+[Lib_airflow](https://github.com/RADar-AZDelta/lib_airflow) Custom Airflow operators and hooks, that help to upload raw hospital data to Google Cloud environment. The source code supports developers to automate workflows or data pipelines via the creation of advanced task scheduling.  
 
  
 
-DeltaMSI Microsatellite instability scoring screening tool using AI to score regions and samples. DeltaMSI has 3 modes: training, prediction and evaluation. 
+[DeltaMSI](https://github.com/RADar-AZDelta/DeltaMSI) Microsatellite instability scoring screening tool using AI to score regions and samples. DeltaMSI has 3 modes: training, prediction and evaluation. 
 
  
 
-AZDelta-OMOP-CDM The provided source code holds the OMOP CDM folder structure containing the necessary ETL queries, USAGI csv files and custom concept csv files of the AZ Delta hospital. The folder structure is used in combination with the RiaB ETL tool 
+[AZDelta-OMOP-CDM](https://github.com/RADar-AZDelta/AZDelta-OMOP-CDM) The provided source code holds the OMOP CDM folder structure containing the necessary ETL queries, USAGI csv files and custom concept csv files of the AZ Delta hospital. The folder structure is used in combination with the RiaB ETL tool 
 
  
 
-Explainable-Decision-Support-Lung-Cancer This repository contains the code and trained pipelines from the paper "Development of an explainable clinical decision support tool for advanced lung cancer patients" -paper under peer review submission stage. The folder pipelines contains the pipelines (preprocessing + voting classifier) of which the results were mentioned in the paper. If one uses these pipelines to run inference on own databases, please provide feedback & let us know your results. 
+[Explainable-Decision-Support-Lung-Cancer](https://github.com/RADar-AZDelta/Explainable-Decision-Support-Lung-Cancer) This repository contains the code and trained pipelines from the paper "Development of an explainable clinical decision support tool for advanced lung cancer patients" -paper under peer review submission stage. The folder pipelines contains the pipelines (preprocessing + voting classifier) of which the results were mentioned in the paper. If one uses these pipelines to run inference on own databases, please provide feedback & let us know your results. 
 
  
 
