@@ -46,7 +46,7 @@ Advanced Data-Aided Medicine Part Lung Cancer
 
 - Funding Vlaio O&O 
 
-- Ethics NCT05783024 Advanced Data-Aided Medicine Part Lung Cancer - Full Text View - ClinicalTrials.gov 
+- Ethics [NCT05783024 Advanced Data-Aided Medicine Part Lung Cancer- ClinicalTrials.gov](https://clinicaltrials.gov/ct2/show/NCT05783024)
 
 - Status: looking for validation cohorts in hospitals 
 
@@ -234,7 +234,7 @@ Interested to get a link to register? Apply via radar@azdelta.be
 
  
 
-Check our latest news and project updates via RADar Learning & innovation Centre AZ Delta: Overview | LinkedIn 
+Check our latest news and project updates via [RADar Learning & innovation Centre AZ Delta: Overview | LinkedIn](https://www.linkedin.com/company/radar-learning-innovation-centre-az-delta/)
 
  
 
