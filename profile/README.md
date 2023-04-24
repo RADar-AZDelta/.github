@@ -2,7 +2,7 @@
 
 The research & innovation department of RADar, the learning and development center in AZ Delta,  incorporates new technologies and data-driven medicine into healthcare operations. RADar focuses on data-driven healthcare research projects, using cutting-edge technology to gather, store & analyze data and gain insights into healthcare trends and patient outcomes. 
 
-![the team](team.jpg)
+![the team](profile/team.jpg)
  
 
 ## RADar MISSION 
