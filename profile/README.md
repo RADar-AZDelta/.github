@@ -160,7 +160,7 @@ RADar wants to share its expertise and knowledge to other hospital and healthcar
 
  
 
-Rabbit-in-a-Blender RiaB An ETL data transformation tool to transform electronic health record data into observational medical outcomes partnership (OMOP) Common Data Model (CDM) tables. 
+[Rabbit-in-a-Blender](https://github.com/RADar-AZDelta/Rabbit-in-a-Blender) RiaB An ETL data transformation tool to transform electronic health record data into observational medical outcomes partnership (OMOP) Common Data Model (CDM) tables. 
 
  
 
