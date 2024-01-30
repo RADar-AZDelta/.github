@@ -169,6 +169,9 @@ Breast Cancer Support
 - **Status:** ongoing research
   
 ### 7. PhonAID
+
+Phoniatrics Artificial Intelligence Detection tool
+
 - **Objective:** Through PhonAID, our objective is to transfer specialized knowledge from secondary care to primary care, enabling early detection of voice disorders. Achieving this goal involves implementing an application equipped with an AI model.
   
 - **Methodology:** Combining audio recordings of speech tasks with clinical data and questionnaires as input to an AI model to classify categories of voice disorders. A population of individuals with a healthy voice will constitute a separate category to confirm the absence of a voice disorder. The AI model will be implemented in a user-friendly application for patients and general practitioners to use. The patients will enter clinical data, answer questionnaires and perform several speech tasks on which the AI model will make a prediction.
