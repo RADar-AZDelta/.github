@@ -190,6 +190,26 @@ Phoniatrics Artificial Intelligence Detection tool
   
 - **Status:** starting up
 
+
+### 8. Development of an IBD patient population dashboard to monitor and improve care through machine learning
+
+- **Objective:** Development of a ML model to predict disease progression and treatment outcome for patients with Crohn’s disease or ulcerative colitis. The goal is to improve care in combination with a monitoring tool in the form of a patient population dashboard.
+  
+- **Methodology:** Extracting relevant information from the UR-Care database and from the Electronic Health Record (EHR) system of AZ Delta to visualize patient and patient population characteristics in a dashboard. The project also explores the potential of combining the dashboard with a clinical decision support system by training explainable ML models to predict disease outcomes.
+  
+- **Impact:** Analysis of the ML models in combination with the dashboard might support physicians in finding the best suited treatment options for specific patients.
+  
+- **RADar project research lead:** Ir. Hanne Vanluchene
+  
+- **Principle investigator:** Dr. Filip Baert
+  
+- **Timeline:** 2024-2025
+  
+- **Funding:** Takeda Belgium NV
+  
+- **Status:** Research ongoing
+
+
 ### RADAR-AZ Delta public Github repositories 
 
 RADar wants to share its expertise and knowledge to other hospital and healthcare partner in an open source/open science philosophy. RADar invites researchers and other developers to further explore its available source code and provide feedback. 
